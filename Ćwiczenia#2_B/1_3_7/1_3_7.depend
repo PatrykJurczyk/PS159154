@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584189109 source:c:\users\patison\desktop\zadania z jezyka c\Æwiczenia dodatkowe ;)\1_3_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
