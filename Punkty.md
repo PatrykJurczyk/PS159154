@@ -1,4 +1,4 @@
-Stan na dzień: 7.05.2020 08:32
+Stan na dzień: 20.05.2020 22:38
 
 | Lista 1 | Lista 2 | Lista 3 | Lista 4 | Lista 5 |
 |---|---|---|---|---|
@@ -6,4 +6,8 @@ Stan na dzień: 7.05.2020 08:32
 
 | Lista 6 | Lista 7 | Koło 1| Lista 8/9 | Lista 10| 
 |---|---|---|---|---|
-| 0,5 pkt | 2 pkt | 48 pkt | 1,5 pkt | brak |
+| 2 pkt | 2 pkt | 48 pkt | 2 pkt | 1 pkt |
+
+|lista 11|lista 12|
+|---|---|
+| 1,5 pkt | brak |
